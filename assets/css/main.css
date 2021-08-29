@@ -19,14 +19,3 @@
 			padding: 0 0 1em 1.5em;
 			top: 1.5em;
 		}
-
-		.image.fit {
-			display: block;
-			margin: 0 0 2rem 0;
-			width: 100%;
-		}
-
-			.image.fit img {
-				width: 100%;
-			}
-
