@@ -45,3 +45,33 @@
 			#wrapper {
 				padding: 3rem 2rem;
 			}
+
+			
+			.top-section img{
+    width: 100%;
+}
+
+			
+			.top-section .name{
+    font-size: 100px;
+    text-transform:capitalize;
+    margin-top: 50px;
+}
+
+
+			
+			.top-section .name,.title{
+    font-size: 100px; 
+}
+			body{
+    font-family: Roboto;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+			
+
+			.main-content{
+    text-align: center;
+    box-shadow: 0 0 10px #00000070;
+}
