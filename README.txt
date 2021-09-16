@@ -30,4 +30,4 @@ Credits:
 		Responsive Tools (github.com/ajlkn/responsive-tools)
 
 
-！[image](https://github.com/Henhaodetiedan/Henhaodetiedan.github.io/blob/master/images/9c2e443211023f6f270908f676379990.mp4)
+！[img]（https://github.com/Henhaodetiedan/Henhaodetiedan.github.io/blob/master/images/6bbf2faecf74001192384dfa595e1899.gif）
